@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "prodev-mobile-app-0x05",
-    "slug": "prodev-mobile-app-0x05",
+    "name": "prodev-mobile-app-0x04",
+    "slug": "prodev-mobile-app-0x04",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "prodevmobileapp0x05",
+    "scheme": "prodevmobileapp0x04",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

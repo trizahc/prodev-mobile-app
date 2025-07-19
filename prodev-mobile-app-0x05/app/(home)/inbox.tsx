@@ -1,11 +1,11 @@
 import { View, Text } from "react-native";
 
 const Inbox = () => {
-  return (
-    <View>
-      <Text>Inbox Screen</Text>
-    </View>
-  );
-};
+    return (
+        <View>
+        <Text>Inbox Screen</Text>
+        </View>
+    );
+    };
 
 export default Inbox;

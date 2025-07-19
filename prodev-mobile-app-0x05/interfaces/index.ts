@@ -14,6 +14,6 @@ export interface PropertyLocationProps {
     country: string
 }
 
-export interface PropertListing {
+export interface PropertyListing {
     listings: PropertyListingProps []
 }
